@@ -1,0 +1,18 @@
+[[The Ones Who Walk Away From Omelas]]
+
+The ones who walk away from Omelas by Ursula K. Le Guin is a story about a city called Omelas which is set out as a utopia where everyone is happy. Later on in the story, we learn that the prosperity their society is build on is dependent on the misery of a child, locked away in a basement.
+
+An idea that stood out to me was how the people of Omelas chose to ignore the suffering of the child to pursue their own happiness. “They all understand that their happiness … even the abundance of their harvest and the kindly weathers of their skies depend wholly on this child’s misery.” Even though they are aware of the child's suffering, they willingly accept it as the price for their own happiness and prosperity, proving that all of the citizens of Omelas are part of the problem.  This makes me reflect on situations in our own world where this is happening, such as how our consumerism leads to underpaid workers in less developed countries to produce our products. We turn a blind eye to this so that our prices are lower at their expense, similar to how "one thing I know there is none of in Omelas is guilt." This exposes a problem in both our society as well as Omelas', where society's pursuit of collective happiness has suppressed the true circumstances and our conscience towards treating others with injustice. There are many examples of this from history, such as in Germany during WW2. Many Germans turned a blind eye towards the atrocities committed by the Nazi's, in order to maintain the status quo, and out of fear of the loss of their own way of life. Maybe if they had stood up to him or stopped him from being elected into power, it's possible that fewer lives could have been lost. Through the ideas of ignorance and injustice, the author brings to light the contrived ignorance towards injustice we have in our world today and the parallels the child in the story draws with those less fortunate in our society. 
+
+Before the introduction of the suffering child, I found the city of Omelas and the idea of utopia hard to believe. The apparent contradictions of religion without clergy, soldiers without war and drugs without use at the start bothered me, as it felt like the city was fabricated and unrealistic, the darkness of man's heart absent from their society. Le Guin even admits that it "sounds in my words like a city in a fairy tale, long ago and far away, once upon a time." By making Omelas seem distant and unbelievable, the reader is led to believe the impossibility of a utopian society in our own world being a reality. By revealing the unseen child, the author presents a more realistic depiction, introducing flaws to the supposedly perfect city and uncovering the cost of a potential utopia. This makes think about the happines our own society is aiming for, is it truly possible to create a world without evil, when even it's description alone sounds far fetched? If there was only pleasure in this world, would we be satisfied with the boredom and stagnation or would we also need 'the child' to help us discern authentic happiness in the moments that matter, knowing that suffering exists. 
+
+
+easy and boring
+nothing to feel
+
+
+The dissonance between
+This links to the book "1984," where the main protagonist complies with the regime's  
+This quote highlights a chilling aspect of the Omelas society, where the pursuit of collective happiness has led to the suppression of individual moral conscience
+It suggests that the absence of guilt allows the citizens to maintain their utopian existence without confronting the ethical implications of their actions.
+Maybe without any pain, suffering we won't be able to appreciate all the happiness we have in our lives. 

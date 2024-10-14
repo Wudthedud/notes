@@ -1,0 +1,18 @@
+Never before have I disagreed so strongly with an author's portrayal of a person. Solo, the account of Andrew McAuley's fatal crossing of the Tasman Ocean, didn't make me feel admiration for the main character. In fact, it left me with an almost totally negative impression of him. 
+
+I disagreed strongly with Vicki McAuley's depiction of her husband as a faultless man. Andrew's decision to cross the Tasman Ocean in a kayak is a controversial one. In this book Vicki McAuley attempted to support Andrew's choice to do so, but in my opinion, she did the opposite. I had trouble figuring out how much was Andrew's own thoughts and what was his wife's interpretation. I saw this straight from the start of the book where she writes from her husband's point of view. Andrew thinks, "Oh God. Moments pass, but not the tears, nor the agony on leaving his wife and child. Oh God, please let me finish in one piece." We've only got her word for it that this is what he was thinking. The book's never-ending descriptions of 'brave', 'fearless', 'amazing' Andrew irritated me. What sort of father puts his ambitions before his parental duties? What kind of man willingly and with full knowledge leaves his wife to pay a mortgage and tend to their son so that he can enjoy an adventure? I'm sure these were not the questions Vicki McAuley was attempting to raise in the book, but they were the ones I was left with at its end. 
+
+The most infuriating section of the book is that in which the author criticizes Justin Jones and James Castrission's joint effort to cross the Tasman in a kayak of their own. Whereas Andrew's plans to do so were deemed 'valiant', the men's competitive spirit is blamed by the author for contributing to Andrews 'bad moods' leading up to his attempted crossing. If Andrew was such a wonderful and pioneering man, why couldn't he cope with this? But I do respect the section which deals with Vicki's grief. Her struggle with depression following her husband's death, as well as the emotional turmoil experienced by her son, was tragic and sounded realistic. I could empathize easily with both characters and this part left me with a deeper understanding of grief and resilience in the face of tragedy. 
+
+The conclusion I came to from reading this book was the opposite of that offered by the author, It also saddened me that someone with every reason to be content should have to strive for such external shows of success in order to feel happy. Why isn't being a good husband and father enough? Why doesn't society applaud such simple but good achievements? The book, even though the author didn't mean it to, made me think about this.
+
+
+> [!NOTE] Feedback
+> For Excellence, the student needs to form developed, perceptive personal responses to independently read texts, supported by evidence. This involves demonstrating understandings and expressing viewpoints that are insightful and/or original. This includes responding to links between text and self, and text and world. 
+> 
+> This student has independently selected and read the biography Solo by Vicki McAuley as one of the six texts required. The student forms a developed personal response, supported by specific details from Solo, by giving a reasoned and clear viewpoint about a person's behaviour, supported with evidence. There is an insightful understanding and viewpoint about the author's purpose, supported with evidence and a clear and relevant link between the viewpoints about Andrew's behaviour and the author's purpose, supported with evidence.
+> 
+> For a more secure Excellence, the student could develop the understanding about the tensions between individual fulfilment and social responsibility.
+
+
+#example

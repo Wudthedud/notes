@@ -1,0 +1,215 @@
+{
+  "main": {
+    "id": "687d2bcfbfcbb44f",
+    "type": "split",
+    "children": [
+      {
+        "id": "b4ce90f3fb3fdd30",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "28e9026ae6284526",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DTC/AS91898.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0824d7c625554854",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DTC/Practice 1.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "288f6afaf5b3b4c6",
+    "type": "split",
+    "children": [
+      {
+        "id": "c0897b8af5fca000",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "27707aa9c7e2b2db",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "a19456df5129482b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "20b12d7d276b0ae8",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "0dd69d933a3c42b8",
+    "type": "split",
+    "children": [
+      {
+        "id": "6a35e82f40f2c37e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bbae8e20f0fcff6d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "DTC/AS91898.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "1b4ba11fb9783193",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "DTC/AS91898.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "66f0880f9c8184ee",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": false
+              }
+            }
+          },
+          {
+            "id": "57ab133f6f8ada2e",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "DTC/AS91898.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-importer:Open Importer": false,
+      "edit-history:Open edit history": false
+    }
+  },
+  "active": "27707aa9c7e2b2db",
+  "lastOpenFiles": [
+    "DTC/Practice 1.md",
+    "DTC/AS91898.md",
+    "DTC/DTC.md",
+    "DTC/Practice 2.md",
+    "DTC/Practice 3.md",
+    "DTC/Practice 3.md.edtz",
+    "DTC/Practice 2.md.edtz",
+    "DTC/Practice 1.md.edtz",
+    "DTC/Pasted image 20240915224023.png",
+    "DTC/AS91898.html",
+    "DTC/AS91898.md.edtz",
+    "English/91100 Unfamiliar Text/2016.md",
+    "English/91100 Unfamiliar Text/Level-2-Unfamiliar-Texts-Resource-Booklet-2016.pdf",
+    "Pasted image 20240923004551.png",
+    "Pasted image 20240918233022.png",
+    "Pasted image 20240918233014.png",
+    "English/91100 Unfamiliar Text/Level-2-Unfamiliar-Texts-Resource-Booklet-2017.pdf",
+    "Physics.md",
+    "English/Personal Responses/Personal Response 3/Draft 1.md",
+    "DTC/Pasted image 20240915223616.png",
+    "English/91100 Unfamiliar Text/Pasted image 20240918230535.png",
+    "Pasted image 20240918230557.png",
+    "English/91100 Unfamiliar Text/2016.md.edtz",
+    "Untitled.md",
+    "English/Lord of the flies/Writing Portfolio/Essay/Draft 2.md",
+    "English/91100 Unfamiliar Text",
+    "English/Lord of the flies/Writing Portfolio/Essay/Final.md",
+    "English/Lord of the flies/Writing Portfolio/Essay/Draft 1.md",
+    "English/Lord of the flies/Writing Portfolio/Essay/Initial.md",
+    "DTC/Pasted image 20240912145932.png",
+    "SM9.md",
+    "English/Lord of the flies/Writing Portfolio/Essay/Draft 1.md.edtz",
+    "English/Lord of the flies/Writing Portfolio/Untitled.md",
+    "English/Lord of the flies/AS91098/Formative/Final.md",
+    "English/Lord of the flies/AS91098/Formative/Day 1.md",
+    "English/Lord of the flies/AS91101/Plan.md",
+    "English/Personal Responses/Personal Response 3/Draft 3.md",
+    "DTC/Pasted image 20240915223609.png",
+    "DTC/Pasted image 20240915223542.png",
+    "Biology/Ecology/Hinewai.md",
+    "Biology/Gas Exchange/Gas Exchange in Fish.md",
+    "Christian Studies/How to live Life - Islam.md",
+    "Biology/Gas Exchange/Habitat of Land Mammals.md",
+    "Biology/Gas Exchange/Model answer.md",
+    "English/Personal Responses/Personal Response 3/Final.md",
+    "Untitled.canvas"
+  ]
+}

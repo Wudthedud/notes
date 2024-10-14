@@ -1,0 +1,44 @@
+{
+  "provider": "ollama",
+  "model": "llama3:latest",
+  "enable_by_default": true,
+  "keybind": "Tab",
+  "delay_ms": 100,
+  "stream": true,
+  "accept": {
+    "splitter_regex": "\n",
+    "display_splitter_regex": "\n",
+    "completion_completeness_regex": ".*$",
+    "min_accept_length": 4,
+    "min_display_length": 50,
+    "retrigger_threshold": 128
+  },
+  "provider_settings": {
+    "openai-chatgpt": {
+      "settings": "{\"api_key\":\"sk-proj-3i6ySLVE6fuejsMa60iZT3BlbkFJgutnERPsDNJd5QWlW84L\"}",
+      "models": {}
+    },
+    "ollama": {
+      "models": {
+        "llama3:8b": "{\"system_prompt\":\"\",\"user_prompt\":\"{{#context}}Context:\\n\\n{{context}}\\n\\n=================================\\n{{/context}}Continue the following paragraph:\\n\\n{{last_line}}\"}"
+      }
+    }
+  },
+  "presets": [
+    {
+      "name": "Autocomplete",
+      "provider": "ollama",
+      "model": "llama3:8b",
+      "model_settings": "{\"system_prompt\":\"\",\"user_prompt\":\"{{#context}}Context:\\n\\n{{context}}\\n\\n=================================\\n{{/context}}What do you think the next few words are most likely to be::\\n\\n{{last_line}}\"}",
+      "enable_editor_command": false
+    },
+    {
+      "name": "Default",
+      "provider": "ollama",
+      "model": "llama3:8b",
+      "model_settings": "{\"system_prompt\":\"\",\"user_prompt\":\"{{#context}}Context:\\n\\n{{context}}\\n\\n=================================\\n{{/context}}Continue the following paragraph:\\n\\n{{last_line}}\"}",
+      "enable_editor_command": true
+    }
+  ],
+  "fallback": "Default"
+}

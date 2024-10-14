@@ -1,0 +1,1 @@
+Written in the 1950's by Ray Bradbury, The Veldt centers around a 
