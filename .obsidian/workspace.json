@@ -143,9 +143,17 @@
                 "file": "DTC/Practice 1.md"
               }
             }
+          },
+          {
+            "id": "d1fb22c29d65f440",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -160,7 +168,8 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "obsidian-importer:Open Importer": false,
-      "edit-history:Open edit history": false
+      "edit-history:Open edit history": false,
+      "obsidian-git:Open Git source control": false
     }
   },
   "active": "0824d7c625554854",
