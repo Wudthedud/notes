@@ -19,15 +19,23 @@ A check digit is an additional digit added to the data, which is calculated from
 
 (a) Explain how QR codes use Reed-Solomon codes for error correction and how this ensures data reliability. (b) Provide a step-by-step process of encoding and decoding a simple QR code, emphasizing the error correction mechanism. (c) Compare the error correction capabilities of QR codes to traditional barcodes and discuss their impact on data reliability.
 
-
+QR codes are encoded using Reed-Solomon encoding to allow for both error detection and correction. This is done through the generation of codewords using the interpolation of polynomials over finite Galois fields, leading to the generation of extra redundant error correction codewords. These are added onto the QR code, and can be adjusted based on the level of error correction required, as QR codes can be encoded with low (7%), medium (15%), quartile (25%) or high (30%) levels of error correction. This means that a high level QR code can have 1/3 of the code covered and still work. After the error correction capabilities run out, error detection works for roughly double the amount of error correction, so a quartile encoded QR code will detect an error at minimum when 50% of the QR code's data has changed. Generally, if more than the error detection capabilities of a QR code has been changed, the QR code will no longer scan as modules such as the alignment and version data will be changed, further removing the need for additional error detection capabilities. 
+When encoding, QR codes turns the data into bits, for example ASCII characters are turned into their respective byte, and then these bits are applied onto the QR code matrix using a zig-zag pattern. QR codes can alternate whether 1's are black or white, to make it easier for decoding, therefore this version information is also added on. Next, the error correction codewords are calculated and encoded onto the QR code.
+To decode a QR code when it is scanned, the camera reads the alignment information and version data, and then decodes each codeword(or set of bits). These are then changed into readable ASCII format for the user to read. 
+Compared to traditional barcodes, QR codes are able to both detect errors and correct them, while barcodes can only detect errors. This means it greatly improves data reliability for critical systems. Since barcodes use check digits as error correction, if there is an error, the system can only realise that the calculated check digit does not match the last digit on the barcode, prompting the system to know that there is an error and to use ARQ for a rescan. Meanwhile, if an error is detected on the QR code, the Reed-Solomon encoding allows it to calculate the original data backwards, correcting the errors. 
 
 ### 4. Check Digits:
 
 (a) Define check digits and their role in error control in systems such as credit cards or ISBNs. (b) Demonstrate the calculation of a check digit for an ISBN-10 number: 0-306-40615-X. (c) Evaluate the effectiveness of check digits in real-world applications like financial transactions and inventory management.
 
+Check digits are digits appended to the end of the data for error detection. The check digit is usually calculated using a specific mathematical algorithm, depending on the standard being used. This is used in systems such as barcodes and credit cards to detect errors. For example, to find the check digit of the ISBN-10 number 0-306-40615-X, you first multiply the first digit by 1, the second digit by 2 etc, and then sum the results. This results in 145. Next modulo 11 and you get 2. Therefore, the check digit should be 2. 
+Check digits are commonly employed in financial transactions and inventory management due to their effectiveness. Firstly, they have relatively low overhead, with ISBN-10 only having 1 check digit for 9 digits of data. This gives it a 90% code rate, which is better than something like a QR code or parity. They can also be calculated somewhat easily, as the algorithms generally involve simple arithmetic, meaning that it doesn't take much computational power to calculate. They are also effective at detecting single digit errors, some multiple digit errors, some transposition errors and some burst errors. 
+
 ### 5. Checksums:
 
 (a) What is a checksum, and how does it contribute to error detection in digital data transmission? (b) Compare simple checksums with Cyclic Redundancy Checks (CRC) in terms of reliability and efficiency. (c) Provide an example where a checksum is used in file integrity verification, and discuss its advantages.
+
+
 
 ### 6. Reed-Solomon Codes:
 
@@ -36,6 +44,9 @@ A check digit is an additional digit added to the data, which is calculated from
 ### 7. ARQ and FEC in Network Communication:
 
 (a) Define Automatic Repeat reQuest (ARQ) and Forward Error Correction (FEC) in networking. (b) Provide an example of a protocol that uses ARQ (e.g., TCP) and another that uses FEC (e.g., satellite communication). (c) Discuss the trade-offs between ARQ and FEC, focusing on speed and reliability in high-latency environments.
+
+The ARQ protocol is one of the main protocols used in network communication. When data is sent, it includes a checksum which is calculated by the system receiving the data using an algorithm. If the checksum doesn't match the calculated checksum, it sends back a negative acknowledgement (NACK) to the sender showing that there is an error in the data received, which results in the data being resent. If the calculated checksum does match the received one, it sends an acknowledgement, allowing the next packet to be sent. If no ACK is received at all, it will also resent the packet. For FEC, redundant data in the form of extra error correction is added to the packet, so that if there is an error in the packet, the system is able to rebuild the incorrect data using the error correction included. 
+An example of ARQ is TCP (Transmission Control Protocol) which is widely used in the internet for processes such as websites, SSH and FTP. 
 
 ### 8. RAID Levels and Data Storage:
 
@@ -54,6 +65,8 @@ A check digit is an additional digit added to the data, which is calculated from
 ### Part (a): New Zealand-Based Organisation
 
 (i) Name a New Zealand-based company or organisation that utilizes error control (e.g., “My school” or a retail company). (ii) Provide two examples of how error control is implemented in this organisation. (iii) Explain how these implementations improve the organisation’s efficiency or accuracy.
+
+
 
 ### Part (b): Choose Two
 
