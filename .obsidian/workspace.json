@@ -144,12 +144,11 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -163,7 +162,7 @@
       "edit-history:Open edit history": false
     }
   },
-  "active": "27707aa9c7e2b2db",
+  "active": "57ab133f6f8ada2e",
   "lastOpenFiles": [
     "DTC/Practice 1.md",
     "DTC/AS91898.md",
