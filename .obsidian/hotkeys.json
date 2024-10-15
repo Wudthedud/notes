@@ -100,5 +100,13 @@
       ],
       "key": "O"
     }
+  ],
+  "obsidian-git:push": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "S"
+    }
   ]
 }
